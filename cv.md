@@ -1,10 +1,10 @@
 # **Currículum Vitae de Harry Potter** :sparkles:
 
 ## **Información Personal** :mag_right:
-- **Nombre:** Harry James Potter
-- **Fecha de Nacimiento:** 31 de julio de 1980
-- **Lugar de Nacimiento:** Godric's Hollow, Inglaterra
-- **Email:** harry@hogwarts.com
+- **Nombre:** Javier Guart Garcia
+- **Fecha de Nacimiento:** 17 de diciembre de 2005
+- **Lugar de Nacimiento:** Valencia
+- **Email:** javguagar@alu.edu.gva.es
 - **Teléfono:** +44 123 456 789
 
 ## **Perfil** :star:
