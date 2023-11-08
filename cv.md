@@ -1,4 +1,4 @@
-# **Currículum Vitae de Harry Potter** :sparkles:
+# **Currículum Vitae de Javier Guart** :sparkles:
 
 ## **Información Personal** :mag_right:
 - **Nombre:** Javier Guart Garcia
